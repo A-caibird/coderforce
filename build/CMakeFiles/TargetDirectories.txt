@@ -1,3 +1,0 @@
-/Users/acaibird/Documents/coderforce/build/CMakeFiles/CoderForce.dir
-/Users/acaibird/Documents/coderforce/build/CMakeFiles/edit_cache.dir
-/Users/acaibird/Documents/coderforce/build/CMakeFiles/rebuild_cache.dir
